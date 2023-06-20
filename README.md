@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=2500&color=8C43EA&vCenter=true&width=2000&height=400&lines=To+see+the+world+things+dangerous+to+come+to;to+see+behind+walls+to+draw+closer+to+find+each+other+and+to+feel;That+is+the+purpose+of+life.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=5000&color=8C43EA&vCenter=true&width=2000&height=40&lines=To+see+the+world+things+dangerous+to+come+to;to+see+behind+walls+to+draw+closer+to+find+each+other+and+to+feel;That+is+the+purpose+of+life.)](https://git.io/typing-svg)
 
 
 ## Hi, 我是HildaM
