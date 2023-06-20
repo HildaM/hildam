@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **HildaM/hildam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Life Mottoes
+To see the world, things dangerous to come to, 
+to see behind walls, to draw closer, to find each other and to feel. 
+That is the purpose of life.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hildam)](https://github.com/anuraghazra/github-readme-stats)
+
+
