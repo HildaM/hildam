@@ -13,13 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=Hi+Welcome+%F0%9F%91%8B%F0%9F%8F%BB;To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life.
+)](https://git.io/typing-svg)
+
+
 ## Hi, 我是HildaM
-
-## Life Mottoes
-To see the world, things dangerous to come to, 
-to see behind walls, to draw closer, to find each other and to feel. 
-That is the purpose of life.
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hildam)](https://github.com/anuraghazra/github-readme-stats)
 
