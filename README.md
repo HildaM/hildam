@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 ## Hi, 我是HildaM
 🌟 **My Skills**  
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-Golang-000000?style=flat-square&logo=Linux&logoColor=fff)
+- ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
+- ![](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=Java&logoColor=fff)
+- ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+- ![](https://img.shields.io/badge/-Golang-000000?style=flat-square&logo=Golang&logoColor=fff)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hildam)](https://github.com/anuraghazra/github-readme-stats)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hildam&left_color=green&right_color=red)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-22%20mins-blue)
