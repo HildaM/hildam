@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 
 ## Hi, 我是HildaM
+🌟 **My Skills**  
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hildam)](https://github.com/anuraghazra/github-readme-stats)
 
