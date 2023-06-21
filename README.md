@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=Java&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-Golang-000000?style=flat-square&logo=Golang&logoColor=fff)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hildam)](https://github.com/anuraghazra/github-readme-stats)
+![](https://img.shields.io/badge/-Golang-000000?style=flat-square&logo=Golang&logoColor=fff)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hildam)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--START_SECTION:waka-->
