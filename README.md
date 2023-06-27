@@ -67,5 +67,5 @@ Windows                  4 hrs 45 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/HildaM/HildaM/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2023 08:21:05 UTC
+ Last Updated on 27/06/2023 08:15:07 UTC
 <!--END_SECTION:waka-->
