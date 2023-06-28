@@ -56,10 +56,10 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-PyCharm                  4 hrs 45 mins       █████████████████████████   100.00 % 
+PyCharm                  4 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -67,5 +67,5 @@ Windows                  4 hrs 45 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/HildaM/HildaM/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2023 08:15:07 UTC
+ Last Updated on 28/06/2023 08:14:59 UTC
 <!--END_SECTION:waka-->
