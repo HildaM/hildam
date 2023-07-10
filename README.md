@@ -23,7 +23,7 @@ b3log博客：[b3log/Hildaquan](https://ld246.com/member/Hildaquan/articles)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
@@ -56,13 +56,13 @@ Sunday                   57 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-PyCharmCore              10 hrs 21 mins      ████████████░░░░░░░░░░░░░   46.08 % 
-PyCharm                  7 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   33.26 % 
-IntelliJ                 4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+PyCharmCore              10 hrs 21 mins      ███████████████░░░░░░░░░░   61.76 % 
+IntelliJ                 4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+PyCharm                  1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 
 💻 Operating System: 
-Mac                      15 hrs              █████████████████░░░░░░░░   66.74 % 
-Windows                  7 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   33.26 % 
+Mac                      15 hrs              ██████████████████████░░░   89.47 % 
+Windows                  1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 ```
 
 **Timeline**
@@ -70,5 +70,5 @@ Windows                  7 hrs 28 mins       ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HildaM/HildaM/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2023 08:13:39 UTC
+ Last Updated on 10/07/2023 08:16:02 UTC
 <!--END_SECTION:waka-->
