@@ -23,7 +23,7 @@ b3log博客：[b3log/Hildaquan](https://ld246.com/member/Hildaquan/articles)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,10 +56,10 @@ Sunday                   57 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-IntelliJ                 12 hrs 33 mins      █████████████████████████   100.00 % 
+IntelliJ                 15 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -67,5 +67,5 @@ Mac                      12 hrs 33 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/HildaM/HildaM/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2023 08:13:06 UTC
+ Last Updated on 04/08/2023 08:13:04 UTC
 <!--END_SECTION:waka-->
