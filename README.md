@@ -56,10 +56,10 @@ Sunday                   57 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-IntelliJ                 6 hrs 43 mins       █████████████████████████   100.00 % 
+IntelliJ                 3 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -67,5 +67,5 @@ Mac                      6 hrs 43 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/HildaM/HildaM/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2023 08:13:41 UTC
+ Last Updated on 11/08/2023 08:12:50 UTC
 <!--END_SECTION:waka-->
