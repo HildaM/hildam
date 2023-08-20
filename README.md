@@ -24,7 +24,7 @@ b3log博客：[b3log/Hildaquan](https://ld246.com/member/Hildaquan/articles)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
@@ -68,5 +68,5 @@ Windows                  27 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/HildaM/HildaM/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2023 08:11:33 UTC
+ Last Updated on 20/08/2023 08:11:45 UTC
 <!--END_SECTION:waka-->
