@@ -57,10 +57,10 @@ Sunday                   57 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  37 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  37 mins             █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -68,5 +68,5 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/HildaM/HildaM/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2023 08:14:00 UTC
+ Last Updated on 14/09/2023 08:13:59 UTC
 <!--END_SECTION:waka-->
