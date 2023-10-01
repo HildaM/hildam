@@ -24,7 +24,7 @@ b3log博客：[b3log/Hildaquan](https://ld246.com/member/Hildaquan/articles)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
 
@@ -57,12 +57,13 @@ Sunday                   57 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  8 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 56 mins       ███████████████████████░░   90.99 % 
+GoLand                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
 
 💻 Operating System: 
-Windows                  8 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/09/2023 09:27:42 UTC
+ Last Updated on 01/10/2023 08:12:33 UTC
 <!--END_SECTION:waka-->
