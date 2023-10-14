@@ -17,9 +17,9 @@
 
 
 ✨ **我的分享**：
-Github Page: [HildaM Blog](https://hildam.github.io)
 
-b3log博客：[b3log/Hildaquan](https://ld246.com/member/Hildaquan/articles)
+1. Github Page: [HildaM Blog](https://hildam.github.io)
+2. b3log博客：[b3log/Hildaquan](https://ld246.com/member/Hildaquan/articles)
 
 
 
