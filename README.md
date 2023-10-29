@@ -25,9 +25,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -56,11 +56,12 @@ Sunday                   60 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-IntelliJ                 8 hrs 1 min         ███████████████████████░░   92.63 % 
-PyCharm                  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+IntelliJ                 8 hrs 1 min         ██████████████████████░░░   86.86 % 
+PyCharm                  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+GoLand                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 
 💻 Operating System: 
-Windows                  8 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
