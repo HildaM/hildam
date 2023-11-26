@@ -27,7 +27,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm an Early 🐤** 
 
@@ -56,11 +56,11 @@ Sunday                   67 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  10 hrs 11 mins      ███████████████████████░░   91.71 % 
-GoLand                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+VS Code                  8 hrs 57 mins       ████████████████████████░   97.75 % 
+GoLand                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 💻 Operating System: 
-Windows                  11 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 
