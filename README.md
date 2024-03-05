@@ -16,12 +16,6 @@
 ![](https://img.shields.io/badge/-Golang-000000?style=flat-square&logo=Golang&logoColor=fff)
 
 
-✨ **我的分享**：
-
-1. Github Page: [HildaM Blog](https://hildam.github.io)
-2. b3log博客：[b3log/Hildaquan](https://ld246.com/member/Hildaquan/articles)
-
-
 
 
 <!--START_SECTION:waka-->
