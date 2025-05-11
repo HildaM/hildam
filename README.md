@@ -36,8 +36,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/HildaM/HildaM/output/snake.svg" alt="Snake animation" />
 
 ###
