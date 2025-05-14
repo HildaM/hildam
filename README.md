@@ -59,6 +59,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [fix(slog): 更新调用栈跳过级别的默认值和说明](https://github.com/HildaM/logs/releases/tag/v0.0.6) in [HildaM/logs](https://github.com/HildaM/logs)
+2. 🚀 Published release [feat(slog): 新增调用栈跳过级别选项](https://github.com/HildaM/logs/releases/tag/v0.0.5) in [HildaM/logs](https://github.com/HildaM/logs)
+3. 🚀 Published release [feat(slog): 新增颜色输出选项](https://github.com/HildaM/logs/releases/tag/v0.0.4) in [HildaM/logs](https://github.com/HildaM/logs)
+4. 🚀 Published release [feat(slog): 新增Fatal级别日志记录功能](https://github.com/HildaM/logs/releases/tag/v0.0.3) in [HildaM/logs](https://github.com/HildaM/logs)
+5. 🚀 Published release [v0.0.2](https://github.com/HildaM/logs/releases/tag/v0.0.2) in [HildaM/logs](https://github.com/HildaM/logs)
 <!--END_SECTION:activity-->
 
 ---
