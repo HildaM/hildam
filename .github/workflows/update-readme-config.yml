@@ -14,6 +14,7 @@ settings:
   ignored_repos:
     - hildam/hildam
     - HildaM/T-Projects
+    - Readme-Workflows/recent-activity
 
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
