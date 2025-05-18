@@ -51,11 +51,12 @@
 
 ## Recent Activities
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
 
+<!--RECENT_ACTIVITY:start-->
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 ---
+
+
+![](./profile-3d-contrib/profile-south-season-animate.svg)
