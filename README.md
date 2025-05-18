@@ -53,14 +53,6 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-2. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-3. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-4. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-5. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-6. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-7. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-8. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
