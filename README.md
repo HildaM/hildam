@@ -53,4 +53,9 @@
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ---
