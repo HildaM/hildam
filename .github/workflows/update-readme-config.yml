@@ -12,8 +12,8 @@ settings:
   commit_name: "readme-bot"
   line_prefix: "{NUM}. "
   ignored_repos:
-    - hildam/hildam
-    - hildam/T-Projects
+    - HildaM/hildam
+    - HildaM/T-Projects
 
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
