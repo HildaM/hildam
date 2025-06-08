@@ -53,14 +53,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [HildaM/mcp-proxy](https://github.com/HildaM/mcp-proxy) from [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy)<br>
-2. 🔱 Forked [HildaM/ai-terminal](https://github.com/HildaM/ai-terminal) from [coding-hui/ai-terminal](https://github.com/coding-hui/ai-terminal)<br>
-3. 💪 Opened PR [#11](https://github.com/chatmcp/mcprouter/pull/11) in [chatmcp/mcprouter](https://github.com/chatmcp/mcprouter)<br>
-4. ⬆️ Pushed 1 commit(s) to [HildaM/mcprouter](https://github.com/HildaM/mcprouter)<br>
-5. ⬆️ Pushed 32 commit(s) to [HildaM/mcprouter](https://github.com/HildaM/mcprouter)<br>
-6. 💪 Opened PR [#38](https://github.com/gojue/moling/pull/38) in [gojue/moling](https://github.com/gojue/moling)<br>
-7. ⬆️ Pushed 1 commit(s) to [HildaM/moling](https://github.com/HildaM/moling)<br>
-8. ⬆️ Pushed 1 commit(s) to [HildaM/moling](https://github.com/HildaM/moling)<br>
+1. ⭐ Starred [TBXark/confstore](https://github.com/TBXark/confstore)<br>
+2. ⬆️ Pushed 2 commit(s) to [HildaM/mcp-proxy](https://github.com/HildaM/mcp-proxy)<br>
+3. 🔱 Forked [HildaM/mcp-proxy](https://github.com/HildaM/mcp-proxy) from [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy)<br>
+4. 🔱 Forked [HildaM/ai-terminal](https://github.com/HildaM/ai-terminal) from [coding-hui/ai-terminal](https://github.com/coding-hui/ai-terminal)<br>
+5. 💪 Opened PR [#11](https://github.com/chatmcp/mcprouter/pull/11) in [chatmcp/mcprouter](https://github.com/chatmcp/mcprouter)<br>
+6. ⬆️ Pushed 1 commit(s) to [HildaM/mcprouter](https://github.com/HildaM/mcprouter)<br>
+7. ⬆️ Pushed 32 commit(s) to [HildaM/mcprouter](https://github.com/HildaM/mcprouter)<br>
+8. 💪 Opened PR [#38](https://github.com/gojue/moling/pull/38) in [gojue/moling](https://github.com/gojue/moling)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
