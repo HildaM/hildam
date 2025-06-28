@@ -53,14 +53,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [HildaM/mcp-proxy](https://github.com/HildaM/mcp-proxy)<br>
-2. ⬆️ Pushed 1 commit(s) to [HildaM/mcp-proxy](https://github.com/HildaM/mcp-proxy)<br>
-3. ⭐ Starred [TBXark/confstore](https://github.com/TBXark/confstore)<br>
-4. ⬆️ Pushed 2 commit(s) to [HildaM/mcp-proxy](https://github.com/HildaM/mcp-proxy)<br>
-5. 🔱 Forked [HildaM/mcp-proxy](https://github.com/HildaM/mcp-proxy) from [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy)<br>
-6. 🔱 Forked [HildaM/ai-terminal](https://github.com/HildaM/ai-terminal) from [coding-hui/ai-terminal](https://github.com/coding-hui/ai-terminal)<br>
-7. 💪 Opened PR [#11](https://github.com/chatmcp/mcprouter/pull/11) in [chatmcp/mcprouter](https://github.com/chatmcp/mcprouter)<br>
-8. ⬆️ Pushed 1 commit(s) to [HildaM/mcprouter](https://github.com/HildaM/mcprouter)<br>
+1. 🔱 Forked [HildaM/RAG-Anything](https://github.com/HildaM/RAG-Anything) from [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)<br>
+2. ⬆️ Pushed 1 commit(s) to [HildaM/openmanus-go](https://github.com/HildaM/openmanus-go)<br>
+3. 📔 Created new repository [HildaM/openmanus-go](https://github.com/HildaM/openmanus-go)<br>
+4. ⬆️ Pushed 1 commit(s) to [HildaM/OpenManus](https://github.com/HildaM/OpenManus)<br>
+5. 🔱 Forked [HildaM/OpenManus](https://github.com/HildaM/OpenManus) from [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)<br>
+6. ⬆️ Pushed 1 commit(s) to [HildaM/a2a-go](https://github.com/HildaM/a2a-go)<br>
+7. 🔱 Forked [HildaM/a2a-go](https://github.com/HildaM/a2a-go) from [a2aserver/a2a-go](https://github.com/a2aserver/a2a-go)<br>
+8. ⬆️ Pushed 1 commit(s) to [HildaM/scaled-mcp](https://github.com/HildaM/scaled-mcp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
