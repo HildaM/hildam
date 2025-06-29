@@ -53,14 +53,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [HildaM/RAG-Anything](https://github.com/HildaM/RAG-Anything) from [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)<br>
-2. ⬆️ Pushed 1 commit(s) to [HildaM/openmanus-go](https://github.com/HildaM/openmanus-go)<br>
-3. 📔 Created new repository [HildaM/openmanus-go](https://github.com/HildaM/openmanus-go)<br>
-4. ⬆️ Pushed 1 commit(s) to [HildaM/OpenManus](https://github.com/HildaM/OpenManus)<br>
-5. 🔱 Forked [HildaM/OpenManus](https://github.com/HildaM/OpenManus) from [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)<br>
-6. ⬆️ Pushed 1 commit(s) to [HildaM/a2a-go](https://github.com/HildaM/a2a-go)<br>
-7. 🔱 Forked [HildaM/a2a-go](https://github.com/HildaM/a2a-go) from [a2aserver/a2a-go](https://github.com/a2aserver/a2a-go)<br>
-8. ⬆️ Pushed 1 commit(s) to [HildaM/scaled-mcp](https://github.com/HildaM/scaled-mcp)<br>
+1. 📔 Created new repository [HildaM/manus-go](https://github.com/HildaM/manus-go)<br>
+2. 🔱 Forked [HildaM/RAG-Anything](https://github.com/HildaM/RAG-Anything) from [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)<br>
+3. ⬆️ Pushed 1 commit(s) to [HildaM/openmanus-go](https://github.com/HildaM/openmanus-go)<br>
+4. 📔 Created new repository [HildaM/openmanus-go](https://github.com/HildaM/openmanus-go)<br>
+5. ⬆️ Pushed 1 commit(s) to [HildaM/OpenManus](https://github.com/HildaM/OpenManus)<br>
+6. 🔱 Forked [HildaM/OpenManus](https://github.com/HildaM/OpenManus) from [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)<br>
+7. ⬆️ Pushed 1 commit(s) to [HildaM/a2a-go](https://github.com/HildaM/a2a-go)<br>
+8. 🔱 Forked [HildaM/a2a-go](https://github.com/HildaM/a2a-go) from [a2aserver/a2a-go](https://github.com/a2aserver/a2a-go)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
