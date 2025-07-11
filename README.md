@@ -38,14 +38,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [HildaM/trae-agent](https://github.com/HildaM/trae-agent) from [bytedance/trae-agent](https://github.com/bytedance/trae-agent)<br>
-2. 🔱 Forked [HildaM/crawlee](https://github.com/HildaM/crawlee) from [apify/crawlee](https://github.com/apify/crawlee)<br>
-3. 🔱 Forked [HildaM/opencode](https://github.com/HildaM/opencode) from [sst/opencode](https://github.com/sst/opencode)<br>
-4. 🔱 Forked [HildaM/Awesome-Dify-Workflow](https://github.com/HildaM/Awesome-Dify-Workflow) from [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)<br>
-5. 🔱 Forked [HildaM/VideoLingo](https://github.com/HildaM/VideoLingo) from [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)<br>
-6. 📔 Created new repository [HildaM/manus-go](https://github.com/HildaM/manus-go)<br>
-7. 🔱 Forked [HildaM/RAG-Anything](https://github.com/HildaM/RAG-Anything) from [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)<br>
-8. ⬆️ Pushed 1 commit(s) to [HildaM/openmanus-go](https://github.com/HildaM/openmanus-go)<br>
+1. 🔱 Forked [HildaM/genai-processors](https://github.com/HildaM/genai-processors) from [google-gemini/genai-processors](https://github.com/google-gemini/genai-processors)<br>
+2. 🔱 Forked [HildaM/trae-agent](https://github.com/HildaM/trae-agent) from [bytedance/trae-agent](https://github.com/bytedance/trae-agent)<br>
+3. 🔱 Forked [HildaM/crawlee](https://github.com/HildaM/crawlee) from [apify/crawlee](https://github.com/apify/crawlee)<br>
+4. 🔱 Forked [HildaM/opencode](https://github.com/HildaM/opencode) from [sst/opencode](https://github.com/sst/opencode)<br>
+5. 🔱 Forked [HildaM/Awesome-Dify-Workflow](https://github.com/HildaM/Awesome-Dify-Workflow) from [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)<br>
+6. 🔱 Forked [HildaM/VideoLingo](https://github.com/HildaM/VideoLingo) from [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)<br>
+7. 📔 Created new repository [HildaM/manus-go](https://github.com/HildaM/manus-go)<br>
+8. 🔱 Forked [HildaM/RAG-Anything](https://github.com/HildaM/RAG-Anything) from [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
