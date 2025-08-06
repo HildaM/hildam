@@ -38,14 +38,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [HildaM/coze-studio](https://github.com/HildaM/coze-studio)<br>
-2. 🔱 Forked [HildaM/coze-studio](https://github.com/HildaM/coze-studio) from [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)<br>
-3. ⬆️ Pushed 1 commit(s) to [HildaM/aievo](https://github.com/HildaM/aievo)<br>
-4. 🔱 Forked [HildaM/nano-vllm](https://github.com/HildaM/nano-vllm) from [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)<br>
-5. 🔱 Forked [HildaM/shipany_template](https://github.com/HildaM/shipany_template) from [rs1018321/shipany_template](https://github.com/rs1018321/shipany_template)<br>
-6. 🔱 Forked [HildaM/shipany-template-one](https://github.com/HildaM/shipany-template-one) from [wujiabao77/shipany-template-one](https://github.com/wujiabao77/shipany-template-one)<br>
-7. 🔱 Forked [HildaM/aievo](https://github.com/HildaM/aievo) from [antgroup/aievo](https://github.com/antgroup/aievo)<br>
-8. 🔱 Forked [HildaM/claude-squad](https://github.com/HildaM/claude-squad) from [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad)<br>
+1. 🔱 Forked [HildaM/eino-examples](https://github.com/HildaM/eino-examples) from [cloudwego/eino-examples](https://github.com/cloudwego/eino-examples)<br>
+2. ⬆️ Pushed 143 commit(s) to [HildaM/deer-flow](https://github.com/HildaM/deer-flow)<br>
+3. ⬆️ Pushed 1 commit(s) to [HildaM/coze-studio](https://github.com/HildaM/coze-studio)<br>
+4. 🔱 Forked [HildaM/coze-studio](https://github.com/HildaM/coze-studio) from [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)<br>
+5. ⬆️ Pushed 1 commit(s) to [HildaM/aievo](https://github.com/HildaM/aievo)<br>
+6. 🔱 Forked [HildaM/nano-vllm](https://github.com/HildaM/nano-vllm) from [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)<br>
+7. 🔱 Forked [HildaM/shipany_template](https://github.com/HildaM/shipany_template) from [rs1018321/shipany_template](https://github.com/rs1018321/shipany_template)<br>
+8. 🔱 Forked [HildaM/shipany-template-one](https://github.com/HildaM/shipany-template-one) from [wujiabao77/shipany-template-one](https://github.com/wujiabao77/shipany-template-one)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
