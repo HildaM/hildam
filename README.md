@@ -38,14 +38,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mendableai/firecrawl](https://github.com/mendableai/firecrawl)<br>
-2. 🔱 Forked [HildaM/open-lovable](https://github.com/HildaM/open-lovable) from [mendableai/open-lovable](https://github.com/mendableai/open-lovable)<br>
-3. ❗️ Opened issue [#504](https://github.com/bytedance/deer-flow/issues/504) in [bytedance/deer-flow](https://github.com/bytedance/deer-flow)<br>
-4. 🔱 Forked [HildaM/eino-examples](https://github.com/HildaM/eino-examples) from [cloudwego/eino-examples](https://github.com/cloudwego/eino-examples)<br>
-5. ⬆️ Pushed 143 commit(s) to [HildaM/deer-flow](https://github.com/HildaM/deer-flow)<br>
-6. ⬆️ Pushed 1 commit(s) to [HildaM/coze-studio](https://github.com/HildaM/coze-studio)<br>
-7. 🔱 Forked [HildaM/coze-studio](https://github.com/HildaM/coze-studio) from [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)<br>
-8. ⬆️ Pushed 1 commit(s) to [HildaM/aievo](https://github.com/HildaM/aievo)<br>
+1. ⬆️ Pushed 1 commit(s) to [HildaM/deer-flow-go](https://github.com/HildaM/deer-flow-go)<br>
+2. ⭐ Starred [mendableai/firecrawl](https://github.com/mendableai/firecrawl)<br>
+3. 🔱 Forked [HildaM/open-lovable](https://github.com/HildaM/open-lovable) from [mendableai/open-lovable](https://github.com/mendableai/open-lovable)<br>
+4. ❗️ Opened issue [#504](https://github.com/bytedance/deer-flow/issues/504) in [bytedance/deer-flow](https://github.com/bytedance/deer-flow)<br>
+5. 🔱 Forked [HildaM/eino-examples](https://github.com/HildaM/eino-examples) from [cloudwego/eino-examples](https://github.com/cloudwego/eino-examples)<br>
+6. ⬆️ Pushed 143 commit(s) to [HildaM/deer-flow](https://github.com/HildaM/deer-flow)<br>
+7. ⬆️ Pushed 1 commit(s) to [HildaM/coze-studio](https://github.com/HildaM/coze-studio)<br>
+8. 🔱 Forked [HildaM/coze-studio](https://github.com/HildaM/coze-studio) from [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
