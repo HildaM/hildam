@@ -38,14 +38,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [HildaM/memU](https://github.com/HildaM/memU) from [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)<br>
-2. ⬆️ Pushed 1 commit(s) to [HildaM/deer-flow-go](https://github.com/HildaM/deer-flow-go)<br>
+1. ⬆️ Pushed 1 commit(s) to [HildaM/deer-flow-go](https://github.com/HildaM/deer-flow-go)<br>
+2. 🔱 Forked [HildaM/memU](https://github.com/HildaM/memU) from [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)<br>
 3. ⬆️ Pushed 1 commit(s) to [HildaM/deer-flow-go](https://github.com/HildaM/deer-flow-go)<br>
-4. ⭐ Starred [mendableai/firecrawl](https://github.com/mendableai/firecrawl)<br>
-5. 🔱 Forked [HildaM/open-lovable](https://github.com/HildaM/open-lovable) from [mendableai/open-lovable](https://github.com/mendableai/open-lovable)<br>
-6. ❗️ Opened issue [#504](https://github.com/bytedance/deer-flow/issues/504) in [bytedance/deer-flow](https://github.com/bytedance/deer-flow)<br>
-7. 🔱 Forked [HildaM/eino-examples](https://github.com/HildaM/eino-examples) from [cloudwego/eino-examples](https://github.com/cloudwego/eino-examples)<br>
-8. ⬆️ Pushed 143 commit(s) to [HildaM/deer-flow](https://github.com/HildaM/deer-flow)<br>
+4. ⬆️ Pushed 1 commit(s) to [HildaM/deer-flow-go](https://github.com/HildaM/deer-flow-go)<br>
+5. ⭐ Starred [mendableai/firecrawl](https://github.com/mendableai/firecrawl)<br>
+6. 🔱 Forked [HildaM/open-lovable](https://github.com/HildaM/open-lovable) from [mendableai/open-lovable](https://github.com/mendableai/open-lovable)<br>
+7. ❗️ Opened issue [#504](https://github.com/bytedance/deer-flow/issues/504) in [bytedance/deer-flow](https://github.com/bytedance/deer-flow)<br>
+8. 🔱 Forked [HildaM/eino-examples](https://github.com/HildaM/eino-examples) from [cloudwego/eino-examples](https://github.com/cloudwego/eino-examples)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
