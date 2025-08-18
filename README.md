@@ -38,14 +38,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [HildaM/deer-flow-go](https://github.com/HildaM/deer-flow-go)<br>
+1. ❗️ Opened issue [#3](https://github.com/UMR-kira/KlbqAutoPiano/issues/3) in [UMR-kira/KlbqAutoPiano](https://github.com/UMR-kira/KlbqAutoPiano)<br>
 2. ⬆️ Pushed 1 commit(s) to [HildaM/deer-flow-go](https://github.com/HildaM/deer-flow-go)<br>
 3. ⬆️ Pushed 1 commit(s) to [HildaM/deer-flow-go](https://github.com/HildaM/deer-flow-go)<br>
 4. ⬆️ Pushed 1 commit(s) to [HildaM/deer-flow-go](https://github.com/HildaM/deer-flow-go)<br>
-5. 🔱 Forked [HildaM/memU](https://github.com/HildaM/memU) from [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)<br>
-6. ⬆️ Pushed 1 commit(s) to [HildaM/deer-flow-go](https://github.com/HildaM/deer-flow-go)<br>
+5. ⬆️ Pushed 1 commit(s) to [HildaM/deer-flow-go](https://github.com/HildaM/deer-flow-go)<br>
+6. 🔱 Forked [HildaM/memU](https://github.com/HildaM/memU) from [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)<br>
 7. ⬆️ Pushed 1 commit(s) to [HildaM/deer-flow-go](https://github.com/HildaM/deer-flow-go)<br>
-8. ⭐ Starred [mendableai/firecrawl](https://github.com/mendableai/firecrawl)<br>
+8. ⬆️ Pushed 1 commit(s) to [HildaM/deer-flow-go](https://github.com/HildaM/deer-flow-go)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
