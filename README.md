@@ -38,14 +38,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [HildaM/awesome-nano-banana](https://github.com/HildaM/awesome-nano-banana) from [HildaM/awesome-nano-banana](https://github.com/HildaM/awesome-nano-banana)<br>
-2. 🔱 Forked [HildaM/lmrouter](https://github.com/HildaM/lmrouter) from [HildaM/lmrouter](https://github.com/HildaM/lmrouter)<br>
-3. 🔱 Forked [HildaM/UI-Visual-Validator-Agent](https://github.com/HildaM/UI-Visual-Validator-Agent) from [HildaM/UI-Visual-Validator-Agent](https://github.com/HildaM/UI-Visual-Validator-Agent)<br>
-4. 🔱 Forked [HildaM/LocalRecall](https://github.com/HildaM/LocalRecall) from [HildaM/LocalRecall](https://github.com/HildaM/LocalRecall)<br>
-5. 🔱 Forked [HildaM/penpot](https://github.com/HildaM/penpot) from [HildaM/penpot](https://github.com/HildaM/penpot)<br>
-6. 🔱 Forked [HildaM/chinese-independent-developer](https://github.com/HildaM/chinese-independent-developer) from [HildaM/chinese-independent-developer](https://github.com/HildaM/chinese-independent-developer)<br>
-7. ⬆️ Pushed undefined commit(s) to [HildaM/Agent-MemoryForge](https://github.com/HildaM/Agent-MemoryForge)<br>
-8. 🔱 Forked [HildaM/Agent-MemoryForge](https://github.com/HildaM/Agent-MemoryForge) from [HildaM/Agent-MemoryForge](https://github.com/HildaM/Agent-MemoryForge)<br>
+1. 🔱 Forked [HildaM/awesome-nano-banana](https://github.com/HildaM/awesome-nano-banana) from [JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)<br>
+2. 🔱 Forked [HildaM/lmrouter](https://github.com/HildaM/lmrouter) from [LMRouter/lmrouter](https://github.com/LMRouter/lmrouter)<br>
+3. 🔱 Forked [HildaM/UI-Visual-Validator-Agent](https://github.com/HildaM/UI-Visual-Validator-Agent) from [cryptonerdcn/UI-Visual-Validator-Agent](https://github.com/cryptonerdcn/UI-Visual-Validator-Agent)<br>
+4. 🔱 Forked [HildaM/LocalRecall](https://github.com/HildaM/LocalRecall) from [mudler/LocalRecall](https://github.com/mudler/LocalRecall)<br>
+5. 🔱 Forked [HildaM/penpot](https://github.com/HildaM/penpot) from [penpot/penpot](https://github.com/penpot/penpot)<br>
+6. ❗️ Opened issue [#3](https://github.com/UMR-kira/KlbqAutoPiano/issues/3) in [UMR-kira/KlbqAutoPiano](https://github.com/UMR-kira/KlbqAutoPiano)<br>
+7. ⬆️ Pushed 1 commit(s) to [HildaM/deer-flow-go](https://github.com/HildaM/deer-flow-go)<br>
+8. ⬆️ Pushed 1 commit(s) to [HildaM/deer-flow-go](https://github.com/HildaM/deer-flow-go)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
