@@ -38,12 +38,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [HildaM/ai-trend-publish](https://github.com/HildaM/ai-trend-publish) from [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)<br>
-2. 🔱 Forked [HildaM/awesome-nano-banana](https://github.com/HildaM/awesome-nano-banana) from [JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)<br>
-3. 🔱 Forked [HildaM/lmrouter](https://github.com/HildaM/lmrouter) from [LMRouter/lmrouter](https://github.com/LMRouter/lmrouter)<br>
-4. 🔱 Forked [HildaM/UI-Visual-Validator-Agent](https://github.com/HildaM/UI-Visual-Validator-Agent) from [cryptonerdcn/UI-Visual-Validator-Agent](https://github.com/cryptonerdcn/UI-Visual-Validator-Agent)<br>
-5. 🔱 Forked [HildaM/LocalRecall](https://github.com/HildaM/LocalRecall) from [mudler/LocalRecall](https://github.com/mudler/LocalRecall)<br>
-6. 🔱 Forked [HildaM/penpot](https://github.com/HildaM/penpot) from [penpot/penpot](https://github.com/penpot/penpot)<br>
+1. 🔱 Forked [HildaM/dive-into-llms](https://github.com/HildaM/dive-into-llms) from [HildaM/dive-into-llms](https://github.com/HildaM/dive-into-llms)<br>
+2. 🔱 Forked [HildaM/ai-trend-publish](https://github.com/HildaM/ai-trend-publish) from [HildaM/ai-trend-publish](https://github.com/HildaM/ai-trend-publish)<br>
+3. 🔱 Forked [HildaM/awesome-nano-banana](https://github.com/HildaM/awesome-nano-banana) from [HildaM/awesome-nano-banana](https://github.com/HildaM/awesome-nano-banana)<br>
+4. 🔱 Forked [HildaM/lmrouter](https://github.com/HildaM/lmrouter) from [HildaM/lmrouter](https://github.com/HildaM/lmrouter)<br>
+5. 🔱 Forked [HildaM/UI-Visual-Validator-Agent](https://github.com/HildaM/UI-Visual-Validator-Agent) from [HildaM/UI-Visual-Validator-Agent](https://github.com/HildaM/UI-Visual-Validator-Agent)<br>
+6. 🔱 Forked [HildaM/LocalRecall](https://github.com/HildaM/LocalRecall) from [HildaM/LocalRecall](https://github.com/HildaM/LocalRecall)<br>
+7. 🔱 Forked [HildaM/penpot](https://github.com/HildaM/penpot) from [HildaM/penpot](https://github.com/HildaM/penpot)<br>
+8. 🔱 Forked [HildaM/chinese-independent-developer](https://github.com/HildaM/chinese-independent-developer) from [HildaM/chinese-independent-developer](https://github.com/HildaM/chinese-independent-developer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
