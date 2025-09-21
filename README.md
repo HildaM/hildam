@@ -43,7 +43,6 @@
 3. 🔱 Forked [HildaM/lmrouter](https://github.com/HildaM/lmrouter) from [LMRouter/lmrouter](https://github.com/LMRouter/lmrouter)<br>
 4. 🔱 Forked [HildaM/UI-Visual-Validator-Agent](https://github.com/HildaM/UI-Visual-Validator-Agent) from [cryptonerdcn/UI-Visual-Validator-Agent](https://github.com/cryptonerdcn/UI-Visual-Validator-Agent)<br>
 5. 🔱 Forked [HildaM/LocalRecall](https://github.com/HildaM/LocalRecall) from [mudler/LocalRecall](https://github.com/mudler/LocalRecall)<br>
-6. 🔱 Forked [HildaM/penpot](https://github.com/HildaM/penpot) from [penpot/penpot](https://github.com/penpot/penpot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
