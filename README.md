@@ -38,13 +38,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [HildaM/arxiv-paper-curator](https://github.com/HildaM/arxiv-paper-curator) from [jamwithai/arxiv-paper-curator](https://github.com/jamwithai/arxiv-paper-curator)<br>
-2. 🔱 Forked [HildaM/ququ](https://github.com/HildaM/ququ) from [yan5xu/ququ](https://github.com/yan5xu/ququ)<br>
-3. 🔱 Forked [HildaM/ai-trend-publish](https://github.com/HildaM/ai-trend-publish) from [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)<br>
-4. 🔱 Forked [HildaM/awesome-nano-banana](https://github.com/HildaM/awesome-nano-banana) from [JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)<br>
-5. 🔱 Forked [HildaM/lmrouter](https://github.com/HildaM/lmrouter) from [LMRouter/lmrouter](https://github.com/LMRouter/lmrouter)<br>
-6. 🔱 Forked [HildaM/UI-Visual-Validator-Agent](https://github.com/HildaM/UI-Visual-Validator-Agent) from [cryptonerdcn/UI-Visual-Validator-Agent](https://github.com/cryptonerdcn/UI-Visual-Validator-Agent)<br>
-7. 🔱 Forked [HildaM/LocalRecall](https://github.com/HildaM/LocalRecall) from [mudler/LocalRecall](https://github.com/mudler/LocalRecall)<br>
+1. 🔱 Forked [HildaM/AISystem](https://github.com/HildaM/AISystem) from [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem)<br>
+2. 🔱 Forked [HildaM/AIInfra](https://github.com/HildaM/AIInfra) from [Infrasys-AI/AIInfra](https://github.com/Infrasys-AI/AIInfra)<br>
+3. 🔱 Forked [HildaM/arxiv-paper-curator](https://github.com/HildaM/arxiv-paper-curator) from [jamwithai/arxiv-paper-curator](https://github.com/jamwithai/arxiv-paper-curator)<br>
+4. 🔱 Forked [HildaM/ququ](https://github.com/HildaM/ququ) from [yan5xu/ququ](https://github.com/yan5xu/ququ)<br>
+5. 🔱 Forked [HildaM/ai-trend-publish](https://github.com/HildaM/ai-trend-publish) from [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)<br>
+6. 🔱 Forked [HildaM/awesome-nano-banana](https://github.com/HildaM/awesome-nano-banana) from [JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)<br>
+7. 🔱 Forked [HildaM/lmrouter](https://github.com/HildaM/lmrouter) from [LMRouter/lmrouter](https://github.com/LMRouter/lmrouter)<br>
+8. 🔱 Forked [HildaM/UI-Visual-Validator-Agent](https://github.com/HildaM/UI-Visual-Validator-Agent) from [cryptonerdcn/UI-Visual-Validator-Agent](https://github.com/cryptonerdcn/UI-Visual-Validator-Agent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
