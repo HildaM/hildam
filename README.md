@@ -45,7 +45,6 @@
 5. 🔱 Forked [HildaM/ai-trend-publish](https://github.com/HildaM/ai-trend-publish) from [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)<br>
 6. 🔱 Forked [HildaM/awesome-nano-banana](https://github.com/HildaM/awesome-nano-banana) from [JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)<br>
 7. 🔱 Forked [HildaM/lmrouter](https://github.com/HildaM/lmrouter) from [LMRouter/lmrouter](https://github.com/LMRouter/lmrouter)<br>
-8. 🔱 Forked [HildaM/UI-Visual-Validator-Agent](https://github.com/HildaM/UI-Visual-Validator-Agent) from [cryptonerdcn/UI-Visual-Validator-Agent](https://github.com/cryptonerdcn/UI-Visual-Validator-Agent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
