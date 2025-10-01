@@ -43,7 +43,6 @@
 3. 🔱 Forked [HildaM/arxiv-paper-curator](https://github.com/HildaM/arxiv-paper-curator) from [jamwithai/arxiv-paper-curator](https://github.com/jamwithai/arxiv-paper-curator)<br>
 4. 🔱 Forked [HildaM/ququ](https://github.com/HildaM/ququ) from [yan5xu/ququ](https://github.com/yan5xu/ququ)<br>
 5. 🔱 Forked [HildaM/ai-trend-publish](https://github.com/HildaM/ai-trend-publish) from [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)<br>
-6. 🔱 Forked [HildaM/awesome-nano-banana](https://github.com/HildaM/awesome-nano-banana) from [JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
