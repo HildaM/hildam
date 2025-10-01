@@ -38,11 +38,12 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [HildaM/AISystem](https://github.com/HildaM/AISystem) from [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem)<br>
-2. 🔱 Forked [HildaM/AIInfra](https://github.com/HildaM/AIInfra) from [Infrasys-AI/AIInfra](https://github.com/Infrasys-AI/AIInfra)<br>
-3. 🔱 Forked [HildaM/arxiv-paper-curator](https://github.com/HildaM/arxiv-paper-curator) from [jamwithai/arxiv-paper-curator](https://github.com/jamwithai/arxiv-paper-curator)<br>
-4. 🔱 Forked [HildaM/ququ](https://github.com/HildaM/ququ) from [yan5xu/ququ](https://github.com/yan5xu/ququ)<br>
-5. 🔱 Forked [HildaM/ai-trend-publish](https://github.com/HildaM/ai-trend-publish) from [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)<br>
+1. 🔱 Forked [HildaM/claude-relay-service](https://github.com/HildaM/claude-relay-service) from [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)<br>
+2. 🔱 Forked [HildaM/AISystem](https://github.com/HildaM/AISystem) from [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem)<br>
+3. 🔱 Forked [HildaM/AIInfra](https://github.com/HildaM/AIInfra) from [Infrasys-AI/AIInfra](https://github.com/Infrasys-AI/AIInfra)<br>
+4. 🔱 Forked [HildaM/arxiv-paper-curator](https://github.com/HildaM/arxiv-paper-curator) from [jamwithai/arxiv-paper-curator](https://github.com/jamwithai/arxiv-paper-curator)<br>
+5. 🔱 Forked [HildaM/ququ](https://github.com/HildaM/ququ) from [yan5xu/ququ](https://github.com/yan5xu/ququ)<br>
+6. 🔱 Forked [HildaM/ai-trend-publish](https://github.com/HildaM/ai-trend-publish) from [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
