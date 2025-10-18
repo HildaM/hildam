@@ -40,12 +40,12 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [HildaM/my_zinx](https://github.com/HildaM/my_zinx)<br>
 2. ⬆️ Pushed undefined commit(s) to [HildaM/my_zinx](https://github.com/HildaM/my_zinx)<br>
-3. 🔱 Forked [HildaM/analysis_claude_code](https://github.com/HildaM/analysis_claude_code) from [HildaM/analysis_claude_code](https://github.com/HildaM/analysis_claude_code)<br>
-4. 🔱 Forked [HildaM/parlant](https://github.com/HildaM/parlant) from [HildaM/parlant](https://github.com/HildaM/parlant)<br>
-5. 🔱 Forked [HildaM/claude-relay-service](https://github.com/HildaM/claude-relay-service) from [HildaM/claude-relay-service](https://github.com/HildaM/claude-relay-service)<br>
-6. 🔱 Forked [HildaM/AISystem](https://github.com/HildaM/AISystem) from [HildaM/AISystem](https://github.com/HildaM/AISystem)<br>
-7. 🔱 Forked [HildaM/AIInfra](https://github.com/HildaM/AIInfra) from [HildaM/AIInfra](https://github.com/HildaM/AIInfra)<br>
-8. 🔱 Forked [HildaM/arxiv-paper-curator](https://github.com/HildaM/arxiv-paper-curator) from [HildaM/arxiv-paper-curator](https://github.com/HildaM/arxiv-paper-curator)<br>
+3. ⬆️ Pushed undefined commit(s) to [HildaM/my_zinx](https://github.com/HildaM/my_zinx)<br>
+4. 🔱 Forked [HildaM/analysis_claude_code](https://github.com/HildaM/analysis_claude_code) from [HildaM/analysis_claude_code](https://github.com/HildaM/analysis_claude_code)<br>
+5. 🔱 Forked [HildaM/parlant](https://github.com/HildaM/parlant) from [HildaM/parlant](https://github.com/HildaM/parlant)<br>
+6. 🔱 Forked [HildaM/claude-relay-service](https://github.com/HildaM/claude-relay-service) from [HildaM/claude-relay-service](https://github.com/HildaM/claude-relay-service)<br>
+7. 🔱 Forked [HildaM/AISystem](https://github.com/HildaM/AISystem) from [HildaM/AISystem](https://github.com/HildaM/AISystem)<br>
+8. 🔱 Forked [HildaM/AIInfra](https://github.com/HildaM/AIInfra) from [HildaM/AIInfra](https://github.com/HildaM/AIInfra)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
