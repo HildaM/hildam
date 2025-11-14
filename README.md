@@ -38,14 +38,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dahaha-365/YaNet](https://github.com/dahaha-365/YaNet)<br>
-2. ⬆️ Pushed undefined commit(s) to [HildaM/apps.opple.com](https://github.com/HildaM/apps.opple.com)<br>
+1. 🔱 Forked [HildaM/kimi-cli](https://github.com/HildaM/kimi-cli) from [HildaM/kimi-cli](https://github.com/HildaM/kimi-cli)<br>
+2. ⭐ Starred [dahaha-365/YaNet](https://github.com/dahaha-365/YaNet)<br>
 3. ⬆️ Pushed undefined commit(s) to [HildaM/apps.opple.com](https://github.com/HildaM/apps.opple.com)<br>
-4. ⬆️ Pushed undefined commit(s) to [HildaM/BettaFish](https://github.com/HildaM/BettaFish)<br>
-5. 🔱 Forked [HildaM/BettaFish](https://github.com/HildaM/BettaFish) from [HildaM/BettaFish](https://github.com/HildaM/BettaFish)<br>
-6. 🔱 Forked [HildaM/chonkie](https://github.com/HildaM/chonkie) from [HildaM/chonkie](https://github.com/HildaM/chonkie)<br>
-7. 🔱 Forked [HildaM/zinx](https://github.com/HildaM/zinx) from [HildaM/zinx](https://github.com/HildaM/zinx)<br>
-8. 🔱 Forked [HildaM/learn_zinx](https://github.com/HildaM/learn_zinx) from [HildaM/learn_zinx](https://github.com/HildaM/learn_zinx)<br>
+4. ⬆️ Pushed undefined commit(s) to [HildaM/apps.opple.com](https://github.com/HildaM/apps.opple.com)<br>
+5. ⬆️ Pushed undefined commit(s) to [HildaM/BettaFish](https://github.com/HildaM/BettaFish)<br>
+6. 🔱 Forked [HildaM/BettaFish](https://github.com/HildaM/BettaFish) from [HildaM/BettaFish](https://github.com/HildaM/BettaFish)<br>
+7. 🔱 Forked [HildaM/chonkie](https://github.com/HildaM/chonkie) from [HildaM/chonkie](https://github.com/HildaM/chonkie)<br>
+8. 🔱 Forked [HildaM/zinx](https://github.com/HildaM/zinx) from [HildaM/zinx](https://github.com/HildaM/zinx)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
