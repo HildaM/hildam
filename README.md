@@ -44,7 +44,6 @@
 4. ⬆️ Pushed undefined commit(s) to [HildaM/apps.opple.com](https://github.com/HildaM/apps.opple.com)<br>
 5. ⬆️ Pushed undefined commit(s) to [HildaM/BettaFish](https://github.com/HildaM/BettaFish)<br>
 6. 🔱 Forked [HildaM/BettaFish](https://github.com/HildaM/BettaFish) from [HildaM/BettaFish](https://github.com/HildaM/BettaFish)<br>
-7. 🔱 Forked [HildaM/chonkie](https://github.com/HildaM/chonkie) from [HildaM/chonkie](https://github.com/HildaM/chonkie)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
