@@ -45,7 +45,6 @@
 5. ⬆️ Pushed undefined commit(s) to [HildaM/BettaFish](https://github.com/HildaM/BettaFish)<br>
 6. 🔱 Forked [HildaM/BettaFish](https://github.com/HildaM/BettaFish) from [HildaM/BettaFish](https://github.com/HildaM/BettaFish)<br>
 7. 🔱 Forked [HildaM/chonkie](https://github.com/HildaM/chonkie) from [HildaM/chonkie](https://github.com/HildaM/chonkie)<br>
-8. 🔱 Forked [HildaM/zinx](https://github.com/HildaM/zinx) from [HildaM/zinx](https://github.com/HildaM/zinx)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
