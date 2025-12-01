@@ -38,13 +38,13 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [HildaM/claude-code](https://github.com/HildaM/claude-code) from [HildaM/claude-code](https://github.com/HildaM/claude-code)<br>
-2. 🔱 Forked [HildaM/kimi-cli](https://github.com/HildaM/kimi-cli) from [HildaM/kimi-cli](https://github.com/HildaM/kimi-cli)<br>
+1. 🔱 Forked [HildaM/claude-code](https://github.com/HildaM/claude-code) from [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
+2. 🔱 Forked [HildaM/kimi-cli](https://github.com/HildaM/kimi-cli) from [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)<br>
 3. ⭐ Starred [dahaha-365/YaNet](https://github.com/dahaha-365/YaNet)<br>
 4. ⬆️ Pushed undefined commit(s) to [HildaM/apps.opple.com](https://github.com/HildaM/apps.opple.com)<br>
 5. ⬆️ Pushed undefined commit(s) to [HildaM/apps.opple.com](https://github.com/HildaM/apps.opple.com)<br>
 6. ⬆️ Pushed undefined commit(s) to [HildaM/BettaFish](https://github.com/HildaM/BettaFish)<br>
-7. 🔱 Forked [HildaM/BettaFish](https://github.com/HildaM/BettaFish) from [HildaM/BettaFish](https://github.com/HildaM/BettaFish)<br>
+7. 🔱 Forked [HildaM/BettaFish](https://github.com/HildaM/BettaFish) from [666ghj/BettaFish](https://github.com/666ghj/BettaFish)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
