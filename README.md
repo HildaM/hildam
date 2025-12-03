@@ -38,14 +38,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [HildaM/Acontext](https://github.com/HildaM/Acontext) from [memodb-io/Acontext](https://github.com/memodb-io/Acontext)<br>
-2. 🔱 Forked [HildaM/MineContext](https://github.com/HildaM/MineContext) from [volcengine/MineContext](https://github.com/volcengine/MineContext)<br>
-3. 🔱 Forked [HildaM/claude-code](https://github.com/HildaM/claude-code) from [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
-4. 🔱 Forked [HildaM/kimi-cli](https://github.com/HildaM/kimi-cli) from [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)<br>
-5. ⭐ Starred [dahaha-365/YaNet](https://github.com/dahaha-365/YaNet)<br>
-6. ⬆️ Pushed undefined commit(s) to [HildaM/apps.opple.com](https://github.com/HildaM/apps.opple.com)<br>
+1. 🔱 Forked [HildaM/agentic-context-engine](https://github.com/HildaM/agentic-context-engine) from [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine)<br>
+2. 🔱 Forked [HildaM/Acontext](https://github.com/HildaM/Acontext) from [memodb-io/Acontext](https://github.com/memodb-io/Acontext)<br>
+3. 🔱 Forked [HildaM/MineContext](https://github.com/HildaM/MineContext) from [volcengine/MineContext](https://github.com/volcengine/MineContext)<br>
+4. 🔱 Forked [HildaM/claude-code](https://github.com/HildaM/claude-code) from [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
+5. 🔱 Forked [HildaM/kimi-cli](https://github.com/HildaM/kimi-cli) from [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)<br>
+6. ⭐ Starred [dahaha-365/YaNet](https://github.com/dahaha-365/YaNet)<br>
 7. ⬆️ Pushed undefined commit(s) to [HildaM/apps.opple.com](https://github.com/HildaM/apps.opple.com)<br>
-8. ⬆️ Pushed undefined commit(s) to [HildaM/BettaFish](https://github.com/HildaM/BettaFish)<br>
+8. ⬆️ Pushed undefined commit(s) to [HildaM/apps.opple.com](https://github.com/HildaM/apps.opple.com)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
