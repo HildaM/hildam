@@ -45,7 +45,7 @@
 5. 🔱 Forked [HildaM/claude-code](https://github.com/HildaM/claude-code) from [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
 6. 🔱 Forked [HildaM/kimi-cli](https://github.com/HildaM/kimi-cli) from [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)<br>
 7. ⭐ Starred [dahaha-365/YaNet](https://github.com/dahaha-365/YaNet)<br>
-8. ⬆️ Pushed undefined commit(s) to [HildaM/apps.opple.com](https://github.com/HildaM/apps.opple.com)<br>
+8. ⬆️ Pushed undefined commit(s) to [HildaM/BettaFish](https://github.com/HildaM/BettaFish)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
