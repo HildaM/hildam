@@ -38,14 +38,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [HildaM/Kode-cli](https://github.com/HildaM/Kode-cli) from [shareAI-lab/Kode-cli](https://github.com/shareAI-lab/Kode-cli)<br>
-2. 🔱 Forked [HildaM/tech-vault](https://github.com/HildaM/tech-vault) from [moabukar/tech-vault](https://github.com/moabukar/tech-vault)<br>
-3. 🔱 Forked [HildaM/mcp-bosszp](https://github.com/HildaM/mcp-bosszp) from [mucsbr/mcp-bosszp](https://github.com/mucsbr/mcp-bosszp)<br>
-4. 🔱 Forked [HildaM/get_jobs](https://github.com/HildaM/get_jobs) from [loks666/get_jobs](https://github.com/loks666/get_jobs)<br>
-5. 🔱 Forked [HildaM/trpc-agent-go](https://github.com/HildaM/trpc-agent-go) from [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go)<br>
-6. 🔱 Forked [HildaM/agentic-context-engine](https://github.com/HildaM/agentic-context-engine) from [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine)<br>
-7. 🔱 Forked [HildaM/Acontext](https://github.com/HildaM/Acontext) from [memodb-io/Acontext](https://github.com/memodb-io/Acontext)<br>
-8. 🔱 Forked [HildaM/MineContext](https://github.com/HildaM/MineContext) from [volcengine/MineContext](https://github.com/volcengine/MineContext)<br>
+1. 🔱 Forked [HildaM/hello-agents](https://github.com/HildaM/hello-agents) from [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)<br>
+2. 🔱 Forked [HildaM/Kode-cli](https://github.com/HildaM/Kode-cli) from [shareAI-lab/Kode-cli](https://github.com/shareAI-lab/Kode-cli)<br>
+3. 🔱 Forked [HildaM/tech-vault](https://github.com/HildaM/tech-vault) from [moabukar/tech-vault](https://github.com/moabukar/tech-vault)<br>
+4. 🔱 Forked [HildaM/mcp-bosszp](https://github.com/HildaM/mcp-bosszp) from [mucsbr/mcp-bosszp](https://github.com/mucsbr/mcp-bosszp)<br>
+5. 🔱 Forked [HildaM/get_jobs](https://github.com/HildaM/get_jobs) from [loks666/get_jobs](https://github.com/loks666/get_jobs)<br>
+6. 🔱 Forked [HildaM/trpc-agent-go](https://github.com/HildaM/trpc-agent-go) from [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go)<br>
+7. 🔱 Forked [HildaM/agentic-context-engine](https://github.com/HildaM/agentic-context-engine) from [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine)<br>
+8. 🔱 Forked [HildaM/Acontext](https://github.com/HildaM/Acontext) from [memodb-io/Acontext](https://github.com/memodb-io/Acontext)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
