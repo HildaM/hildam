@@ -39,13 +39,13 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow)<br>
-2. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli](https://github.com/HildaM/kimi-cli)<br>
-3. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow)<br>
-4. 🔱 Forked [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow) from [m-sec-org/kimi-cli-for-xbow](https://github.com/m-sec-org/kimi-cli-for-xbow)<br>
-5. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli](https://github.com/HildaM/kimi-cli)<br>
-6. 🔱 Forked [HildaM/hello-agents](https://github.com/HildaM/hello-agents) from [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)<br>
-7. 🔱 Forked [HildaM/Kode-cli](https://github.com/HildaM/Kode-cli) from [shareAI-lab/Kode-cli](https://github.com/shareAI-lab/Kode-cli)<br>
-8. 🔱 Forked [HildaM/tech-vault](https://github.com/HildaM/tech-vault) from [moabukar/tech-vault](https://github.com/moabukar/tech-vault)<br>
+2. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow)<br>
+3. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli](https://github.com/HildaM/kimi-cli)<br>
+4. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow)<br>
+5. 🔱 Forked [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow) from [m-sec-org/kimi-cli-for-xbow](https://github.com/m-sec-org/kimi-cli-for-xbow)<br>
+6. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli](https://github.com/HildaM/kimi-cli)<br>
+7. 🔱 Forked [HildaM/hello-agents](https://github.com/HildaM/hello-agents) from [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)<br>
+8. 🔱 Forked [HildaM/Kode-cli](https://github.com/HildaM/Kode-cli) from [shareAI-lab/Kode-cli](https://github.com/shareAI-lab/Kode-cli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
