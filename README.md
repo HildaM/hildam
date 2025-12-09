@@ -38,14 +38,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow)<br>
+1. 🔱 Forked [HildaM/Open-AutoGLM](https://github.com/HildaM/Open-AutoGLM) from [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)<br>
 2. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow)<br>
 3. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow)<br>
-4. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli](https://github.com/HildaM/kimi-cli)<br>
-5. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow)<br>
-6. 🔱 Forked [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow) from [m-sec-org/kimi-cli-for-xbow](https://github.com/m-sec-org/kimi-cli-for-xbow)<br>
-7. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli](https://github.com/HildaM/kimi-cli)<br>
-8. 🔱 Forked [HildaM/hello-agents](https://github.com/HildaM/hello-agents) from [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)<br>
+4. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow)<br>
+5. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli](https://github.com/HildaM/kimi-cli)<br>
+6. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow)<br>
+7. 🔱 Forked [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow) from [m-sec-org/kimi-cli-for-xbow](https://github.com/m-sec-org/kimi-cli-for-xbow)<br>
+8. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli](https://github.com/HildaM/kimi-cli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
