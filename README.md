@@ -38,14 +38,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [HildaM/airi](https://github.com/HildaM/airi)<br>
-2. 🔱 Forked [HildaM/SPEC-AGENTS.md](https://github.com/HildaM/SPEC-AGENTS.md) from [yibie/SPEC-AGENTS.md](https://github.com/yibie/SPEC-AGENTS.md)<br>
-3. 🔱 Forked [HildaM/Open-AutoGLM](https://github.com/HildaM/Open-AutoGLM) from [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)<br>
-4. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow)<br>
+1. 🔱 Forked [HildaM/opensqt_market_maker](https://github.com/HildaM/opensqt_market_maker) from [dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)<br>
+2. ⬆️ Pushed undefined commit(s) to [HildaM/airi](https://github.com/HildaM/airi)<br>
+3. 🔱 Forked [HildaM/SPEC-AGENTS.md](https://github.com/HildaM/SPEC-AGENTS.md) from [yibie/SPEC-AGENTS.md](https://github.com/yibie/SPEC-AGENTS.md)<br>
+4. 🔱 Forked [HildaM/Open-AutoGLM](https://github.com/HildaM/Open-AutoGLM) from [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)<br>
 5. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow)<br>
 6. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow)<br>
-7. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli](https://github.com/HildaM/kimi-cli)<br>
-8. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow)<br>
+7. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow)<br>
+8. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli](https://github.com/HildaM/kimi-cli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
