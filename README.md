@@ -45,7 +45,6 @@
 5. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow)<br>
 6. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow)<br>
 7. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli-for-xbow](https://github.com/HildaM/kimi-cli-for-xbow)<br>
-8. ⬆️ Pushed undefined commit(s) to [HildaM/kimi-cli](https://github.com/HildaM/kimi-cli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
