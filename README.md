@@ -38,7 +38,6 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [HildaM/opensqt_market_maker](https://github.com/HildaM/opensqt_market_maker) from [dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
