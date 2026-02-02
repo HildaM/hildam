@@ -7,15 +7,6 @@
 
 
 
-## My Visitors
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/HildaM/count.svg?"  />
-</div>
-
-###
-
-
 ---
 
 ## Recent Activities
