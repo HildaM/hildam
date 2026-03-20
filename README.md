@@ -13,8 +13,9 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [HildaM/seedance-prompt-skill](https://github.com/HildaM/seedance-prompt-skill) from [songguoxs/seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill)<br>
-2. 🔱 Forked [HildaM/moyin-creator](https://github.com/HildaM/moyin-creator) from [MemeCalculate/moyin-creator](https://github.com/MemeCalculate/moyin-creator)<br>
+1. 🔱 Forked [HildaM/KarvisForYou](https://github.com/HildaM/KarvisForYou) from [sameencai/KarvisForYou](https://github.com/sameencai/KarvisForYou)<br>
+2. 🔱 Forked [HildaM/seedance-prompt-skill](https://github.com/HildaM/seedance-prompt-skill) from [songguoxs/seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill)<br>
+3. 🔱 Forked [HildaM/moyin-creator](https://github.com/HildaM/moyin-creator) from [MemeCalculate/moyin-creator](https://github.com/MemeCalculate/moyin-creator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
