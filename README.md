@@ -13,7 +13,7 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [HildaM/claude-code-fork](https://github.com/HildaM/claude-code-fork) from [instructkr/clawd-code](https://github.com/instructkr/clawd-code)<br>
+1. 🔱 Forked [HildaM/claude-code-fork](https://github.com/HildaM/claude-code-fork) from [instructkr/claw-code](https://github.com/instructkr/claw-code)<br>
 2. 🔱 Forked [HildaM/turboquant_plus](https://github.com/HildaM/turboquant_plus) from [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus)<br>
 3. 🔱 Forked [HildaM/CalabiYauVoice_GUI](https://github.com/HildaM/CalabiYauVoice_GUI) from [znzsofficial/CalabiYauVoice_GUI](https://github.com/znzsofficial/CalabiYauVoice_GUI)<br>
 4. ⬆️ Pushed undefined commit(s) to [HildaM/AstrBot](https://github.com/HildaM/AstrBot)<br>
