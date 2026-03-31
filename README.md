@@ -13,12 +13,13 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [HildaM/turboquant_plus](https://github.com/HildaM/turboquant_plus) from [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus)<br>
-2. 🔱 Forked [HildaM/CalabiYauVoice_GUI](https://github.com/HildaM/CalabiYauVoice_GUI) from [znzsofficial/CalabiYauVoice_GUI](https://github.com/znzsofficial/CalabiYauVoice_GUI)<br>
-3. ⬆️ Pushed undefined commit(s) to [HildaM/AstrBot](https://github.com/HildaM/AstrBot)<br>
-4. 🔱 Forked [HildaM/dream-to-video-skill](https://github.com/HildaM/dream-to-video-skill) from [mediastormDev/dream-to-video-skill](https://github.com/mediastormDev/dream-to-video-skill)<br>
-5. 🔱 Forked [HildaM/KarvisForYou](https://github.com/HildaM/KarvisForYou) from [sameencai/KarvisForYou](https://github.com/sameencai/KarvisForYou)<br>
-6. 🔱 Forked [HildaM/seedance-prompt-skill](https://github.com/HildaM/seedance-prompt-skill) from [songguoxs/seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill)<br>
+1. 🔱 Forked [HildaM/claude-code-fork](https://github.com/HildaM/claude-code-fork) from [instructkr/claude-code](https://github.com/instructkr/claude-code)<br>
+2. 🔱 Forked [HildaM/turboquant_plus](https://github.com/HildaM/turboquant_plus) from [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus)<br>
+3. 🔱 Forked [HildaM/CalabiYauVoice_GUI](https://github.com/HildaM/CalabiYauVoice_GUI) from [znzsofficial/CalabiYauVoice_GUI](https://github.com/znzsofficial/CalabiYauVoice_GUI)<br>
+4. ⬆️ Pushed undefined commit(s) to [HildaM/AstrBot](https://github.com/HildaM/AstrBot)<br>
+5. 🔱 Forked [HildaM/dream-to-video-skill](https://github.com/HildaM/dream-to-video-skill) from [mediastormDev/dream-to-video-skill](https://github.com/mediastormDev/dream-to-video-skill)<br>
+6. 🔱 Forked [HildaM/KarvisForYou](https://github.com/HildaM/KarvisForYou) from [sameencai/KarvisForYou](https://github.com/sameencai/KarvisForYou)<br>
+7. 🔱 Forked [HildaM/seedance-prompt-skill](https://github.com/HildaM/seedance-prompt-skill) from [songguoxs/seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
