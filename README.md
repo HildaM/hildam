@@ -13,14 +13,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#8](https://github.com/meituan-longcat/LongCat-AudioDiT/issues/8) in [meituan-longcat/LongCat-AudioDiT](https://github.com/meituan-longcat/LongCat-AudioDiT)<br>
-2. 🔱 Forked [HildaM/LongCat-AudioDiT](https://github.com/HildaM/LongCat-AudioDiT) from [meituan-longcat/LongCat-AudioDiT](https://github.com/meituan-longcat/LongCat-AudioDiT)<br>
-3. 🔱 Forked [HildaM/cc-gateway](https://github.com/HildaM/cc-gateway) from [motiful/cc-gateway](https://github.com/motiful/cc-gateway)<br>
-4. 🔱 Forked [HildaM/claude-code-haha](https://github.com/HildaM/claude-code-haha) from [NanmiCoder/claude-code-haha](https://github.com/NanmiCoder/claude-code-haha)<br>
-5. 🔱 Forked [HildaM/claudecode](https://github.com/HildaM/claudecode) from [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
-6. 🔱 Forked [HildaM/turboquant_plus](https://github.com/HildaM/turboquant_plus) from [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus)<br>
-7. 🔱 Forked [HildaM/CalabiYauVoice_GUI](https://github.com/HildaM/CalabiYauVoice_GUI) from [znzsofficial/CalabiYauVoice_GUI](https://github.com/znzsofficial/CalabiYauVoice_GUI)<br>
-8. ⬆️ Pushed undefined commit(s) to [HildaM/AstrBot](https://github.com/HildaM/AstrBot)<br>
+1. ⬆️ Pushed undefined commit(s) to [HildaM/LongCat-AudioDiT-Web](https://github.com/HildaM/LongCat-AudioDiT-Web)<br>
+2. ⬆️ Pushed undefined commit(s) to [HildaM/LongCat-AudioDiT-Web](https://github.com/HildaM/LongCat-AudioDiT-Web)<br>
+3. ⬆️ Pushed undefined commit(s) to [HildaM/LongCat-AudioDiT-Web](https://github.com/HildaM/LongCat-AudioDiT-Web)<br>
+4. ❗️ Opened issue [#8](https://github.com/meituan-longcat/LongCat-AudioDiT/issues/8) in [meituan-longcat/LongCat-AudioDiT](https://github.com/meituan-longcat/LongCat-AudioDiT)<br>
+5. 🔱 Forked [HildaM/LongCat-AudioDiT](https://github.com/HildaM/LongCat-AudioDiT) from [meituan-longcat/LongCat-AudioDiT](https://github.com/meituan-longcat/LongCat-AudioDiT)<br>
+6. 🔱 Forked [HildaM/cc-gateway](https://github.com/HildaM/cc-gateway) from [motiful/cc-gateway](https://github.com/motiful/cc-gateway)<br>
+7. 🔱 Forked [HildaM/claude-code-haha](https://github.com/HildaM/claude-code-haha) from [NanmiCoder/claude-code-haha](https://github.com/NanmiCoder/claude-code-haha)<br>
+8. 🔱 Forked [HildaM/claudecode](https://github.com/HildaM/claudecode) from [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
