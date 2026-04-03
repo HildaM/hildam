@@ -19,7 +19,7 @@
 4. ❗️ Opened issue [#8](https://github.com/meituan-longcat/LongCat-AudioDiT/issues/8) in [meituan-longcat/LongCat-AudioDiT](https://github.com/meituan-longcat/LongCat-AudioDiT)<br>
 5. 🔱 Forked [HildaM/LongCat-AudioDiT](https://github.com/HildaM/LongCat-AudioDiT) from [meituan-longcat/LongCat-AudioDiT](https://github.com/meituan-longcat/LongCat-AudioDiT)<br>
 6. 🔱 Forked [HildaM/cc-gateway](https://github.com/HildaM/cc-gateway) from [motiful/cc-gateway](https://github.com/motiful/cc-gateway)<br>
-7. 🔱 Forked [HildaM/claude-code-haha](https://github.com/HildaM/claude-code-haha) from [NanmiCoder/claude-code-haha](https://github.com/NanmiCoder/claude-code-haha)<br>
+7. 🔱 Forked [HildaM/claude-code-haha](https://github.com/HildaM/claude-code-haha) from [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha)<br>
 8. 🔱 Forked [HildaM/claudecode](https://github.com/HildaM/claudecode) from [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
 <!--RECENT_ACTIVITY:end-->
 
