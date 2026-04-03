@@ -13,14 +13,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [HildaM/LongCat-AudioDiT-Web](https://github.com/HildaM/LongCat-AudioDiT-Web)<br>
-2. ⬆️ Pushed undefined commit(s) to [HildaM/LongCat-AudioDiT-Web](https://github.com/HildaM/LongCat-AudioDiT-Web)<br>
+1. 🔱 Forked [HildaM/OpenHarness](https://github.com/HildaM/OpenHarness) from [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness)<br>
+2. ⬆️ Pushed undefined commit(s) to [HildaM/AstrBot](https://github.com/HildaM/AstrBot)<br>
 3. ⬆️ Pushed undefined commit(s) to [HildaM/LongCat-AudioDiT-Web](https://github.com/HildaM/LongCat-AudioDiT-Web)<br>
-4. ❗️ Opened issue [#8](https://github.com/meituan-longcat/LongCat-AudioDiT/issues/8) in [meituan-longcat/LongCat-AudioDiT](https://github.com/meituan-longcat/LongCat-AudioDiT)<br>
-5. 🔱 Forked [HildaM/LongCat-AudioDiT](https://github.com/HildaM/LongCat-AudioDiT) from [meituan-longcat/LongCat-AudioDiT](https://github.com/meituan-longcat/LongCat-AudioDiT)<br>
-6. 🔱 Forked [HildaM/cc-gateway](https://github.com/HildaM/cc-gateway) from [motiful/cc-gateway](https://github.com/motiful/cc-gateway)<br>
-7. 🔱 Forked [HildaM/claude-code-haha](https://github.com/HildaM/claude-code-haha) from [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha)<br>
-8. 🔱 Forked [HildaM/claudecode](https://github.com/HildaM/claudecode) from [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
+4. ⬆️ Pushed undefined commit(s) to [HildaM/LongCat-AudioDiT-Web](https://github.com/HildaM/LongCat-AudioDiT-Web)<br>
+5. ⬆️ Pushed undefined commit(s) to [HildaM/LongCat-AudioDiT-Web](https://github.com/HildaM/LongCat-AudioDiT-Web)<br>
+6. ❗️ Opened issue [#8](https://github.com/meituan-longcat/LongCat-AudioDiT/issues/8) in [meituan-longcat/LongCat-AudioDiT](https://github.com/meituan-longcat/LongCat-AudioDiT)<br>
+7. 🔱 Forked [HildaM/LongCat-AudioDiT](https://github.com/HildaM/LongCat-AudioDiT) from [meituan-longcat/LongCat-AudioDiT](https://github.com/meituan-longcat/LongCat-AudioDiT)<br>
+8. 🔱 Forked [HildaM/cc-gateway](https://github.com/HildaM/cc-gateway) from [motiful/cc-gateway](https://github.com/motiful/cc-gateway)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
