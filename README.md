@@ -13,8 +13,8 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [HildaM/goclaw](https://github.com/HildaM/goclaw) from [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw)<br>
-2. ⬆️ Pushed undefined commit(s) to [HildaM/OpenHarness](https://github.com/HildaM/OpenHarness)<br>
+1. ⬆️ Pushed undefined commit(s) to [HildaM/OpenHarness](https://github.com/HildaM/OpenHarness)<br>
+2. 🔱 Forked [HildaM/goclaw](https://github.com/HildaM/goclaw) from [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw)<br>
 3. ⬆️ Pushed undefined commit(s) to [HildaM/OpenHarness](https://github.com/HildaM/OpenHarness)<br>
 4. ⬆️ Pushed undefined commit(s) to [HildaM/OpenHarness](https://github.com/HildaM/OpenHarness)<br>
 5. ⬆️ Pushed undefined commit(s) to [HildaM/OpenHarness](https://github.com/HildaM/OpenHarness)<br>
